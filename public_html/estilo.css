@@ -113,14 +113,14 @@ form div{
 }
 
 a:link {
-    color:#F8FBEF
+    color:##FF0000;
 }
 
 a:visited {
-    color: #F8FBEF
+    color: #F8FBEF;
 }
 a:active {
-    color:#F8FBEF
+    color:#FF0000;
 }
 
 label{

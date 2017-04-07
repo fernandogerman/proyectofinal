@@ -103,8 +103,8 @@ form{
     margin: 0 auto;
     width: 800px;
     padding: 1em;
-    border: 1px solid #000;
-    border-radius: 2px;
+    border: 2px solid #000;
+    border-radius: 5px;
     background: white;
 }
 
@@ -132,7 +132,7 @@ label{
 
 input, textarea { 
     font: 1em Arial;
-    width:300px;
+    width:200px;
 }
 
 input:focus, textarea:focus{
