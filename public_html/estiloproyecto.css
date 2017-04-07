@@ -26,10 +26,11 @@ html {
 font-family: Nexa Bold;
 font-size: 12px;
 text-align: center;
+color: #585858;
 }
 ul li{
     list-style: none;
-    background: #F7D358;
+    background: #FE9A2E;
     display: inline;
     font-size: 20px;
     font-family: Nexa Light;
@@ -62,13 +63,12 @@ font-size: 20px;
 }
 a:hover { 
     color: white;
-    font-size: 21px;
+    font-size: 25px;
 
 }
 
 a{
     text-decoration: none;
-    background: #E1F5A9
 }
 form{
    /*centrando el formulario y poniendo borde*/
