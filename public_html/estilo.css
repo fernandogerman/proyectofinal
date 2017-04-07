@@ -76,7 +76,7 @@ font-size: 20px;
     
 }
 a:hover { 
-    color: #FF0000;
+    color: white;
     font-size: 25px;
    
 
@@ -113,14 +113,14 @@ form div{
 }
 
 a:link {
-    color:##FF0000;
+    color:#F8FBEF
 }
 
 a:visited {
-    color: #F8FBEF;
+    color: #F8FBEF
 }
 a:active {
-    color:#FF0000;
+    color:#F8FBEF
 }
 
 label{
@@ -219,7 +219,6 @@ height: auto;
         float: right;
             border-radius: 5px;
 height: auto;
-         opacity: 0.5;
 
   width: 65%;
     background: white;
@@ -255,4 +254,9 @@ text-align: left;
     font-size: 25px;
 }
 #tabla
-    {text-align: center;}
+    text-align: center;
+    #imagen{
+            text-align: center;
+
+        
+    }
