@@ -157,6 +157,24 @@ h1{
     height:800px;
     
 }
+#general2{
+    margin: auto;
+    margin-top:50px;
+    width:860px;
+    height:800px;
+    
+}
+#izquierdo{
+  width: 25%;
+      height: 600px;
+
+    float: left;
+    background: black;
+             opacity: 0.5;
+                          border-radius: 15px;
+
+
+}
 #pizquierdo{
   width: 25%;
       height: 600px;
@@ -168,7 +186,20 @@ h1{
 
 
 }
-#pderecho
+#central{
+  width: 65%;
+      height: auto;
+
+    float: right;
+    background: white;
+                          border-radius: 15px;
+                                       padding: 25px;
+
+
+
+}
+
+#pderecho2
 {
         float: right;
             border-radius: 5px;
@@ -177,6 +208,20 @@ height: auto;
   width: 65%;
     background: white;
          opacity: 0.5;
+             border-radius: 15px;
+             padding: 25px;
+
+
+}
+#pderecho
+{
+        float: right;
+            border-radius: 5px;
+height: auto;
+         opacity: 0.5;
+
+  width: 65%;
+    background: white;
              border-radius: 15px;
              padding: 25px;
 
