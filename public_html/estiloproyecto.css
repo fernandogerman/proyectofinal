@@ -101,10 +101,10 @@ form{
   form{
     /*centrando el formulario y poniendo borde*/
     margin: 0 auto;
-    width: 600px;
+    width: 800px;
     padding: 1em;
     border: 1px solid #000;
-    border-radius: 5px;
+    border-radius: 2px;
     background: white;
 }
 
@@ -150,6 +150,7 @@ h1{
 #fondo{
     background: #013ADF;
 }
+
 #general{
     margin: auto;
     margin-top:50px;
@@ -247,4 +248,9 @@ h4{
     font-family: Nexa Light;
 font-size: 10px;
 text-align: left;
+}
+#h5{
+    text-align: center;
+    font-family: Nexa bold;
+    font-size: 25px;
 }
